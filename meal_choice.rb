@@ -4,6 +4,6 @@
 
 
 def meal_choice(meal = meat)
-  puts meal_choice(meal)
+  puts "#{(meal)}
   #binding.pry
 end
