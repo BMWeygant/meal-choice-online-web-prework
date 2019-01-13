@@ -4,6 +4,6 @@ require 'pry'
 
 
 def meal_choice(meal = "meat")
-  puts "#{meal_choice(meal)}"
+  puts meal_choice(meal)"
   binding.pry
 end
