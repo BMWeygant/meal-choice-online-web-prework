@@ -3,7 +3,7 @@
 #require 'pry'
 
 
-def meal_choice(meal=meat)
+def meal_choice(meal="meat")
   return "#{meal}"
   #binding.pry
 end
